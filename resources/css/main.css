@@ -1,0 +1,167 @@
+body  {
+  font-size: 18px;
+  background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  color: #333333;
+  background-color: #FEF0D9;
+  background-image: url(../../resources/images/wooden-floor-1853417__480.jpg);
+  background-position: center;
+  background-size: repeat;
+  background-color: grey 0.9;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1.2px;
+
+}
+
+h1  {
+  font-size: 2.3rem;
+}
+
+.what_we_do .col{
+  min-width: 200px;
+  max-width: 280px;
+}
+
+.row  {
+  padding-bottom: 20px;
+}
+h2  {
+
+}
+
+/* .col_margin_left  {
+  margin-left: 3px;
+}
+
+.col_margin_right {
+  margin-right: 3px;
+} */
+
+li  {
+  line-height: 1.7rem;
+}
+
+.width_restrict {
+  max-width: 985px;
+  margin: 0 auto;
+}
+
+.border_radius  {
+  border-radius: 3px;
+}
+
+.i_margin_right {
+  margin-right: 7px;
+}
+
+.div_margin_bottom  {
+  margin-bottom: 3rem;
+}
+
+.accent_color {
+  background-color: rgb(250, 250, 250);
+}
+
+.brown  {
+background-color: #FEF0D9
+}
+
+/* i {
+  display: inline-block;
+} */
+
+.text_white {
+  color: rgb(250, 250, 250);
+}
+
+.background_white {
+  background-color: rgb(250, 250, 250);
+}
+
+.div_padding  {
+  padding: 20px;
+}
+
+.myNotes  {
+  background-color: skyblue;
+  color: white;
+}
+
+.spacer {
+  height: 1.8rem;
+}
+
+header  {
+  margin: 0 auto;
+  /* background-color: rgb(250, 250, 250); */
+  background-image: url(../../resources/images/wooden-floor-1853417__480.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+header  h2  {
+  padding: 25px 5px;
+}
+
+
+
+.hero {
+  background-image: url(../../resources/images/tool-2416461__480.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  padding-top: 150px;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+}
+
+.hero_box {
+  background-color: rgb(37,53,67, 0.4);
+  padding: 20px;
+}
+
+/* ======divider===== */
+
+.divider  {
+  background-image: url(../../resources/images/wooden-wall.jpg);
+  background-repeat: repeat;
+  background-position: center;
+  height: 6rem;
+  width: auto;
+}
+
+
+/* =======div 1======= */
+
+.div_test_1 {
+  background-image: url(../../resources/images/woodworking-691329__480.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 30rem;
+}
+
+.div_innard {
+  background-color: rgb(37,53,67, 0.3);
+  width: auto;
+  height: 440px;;
+}
+
+
+
+/* =====div 2======= */
+
+.section_showcase .col  {
+  margin: 5px;
+}
+
+.section_showcase img {
+  width: 100%;
+  max-height: 330px;
+}
+footer  {
+  background-color: grey;
+}
+.footer i {
+  display: inline;
+}
